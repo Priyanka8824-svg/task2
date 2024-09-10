@@ -1,0 +1,10 @@
+Task - 
+	Implement rest application for performing the crud operations on the following model class with JWT authentication.
+
+	Product
+		name
+		price
+		expiry_date
+		manufacturing_date
+
+	Implement loggers.
